@@ -83,7 +83,18 @@ function valorResultado(){
          resultado = num1 * num2
          break;
       case '/':
-         resultado = num2 / num1
+         console.log(num2)
+         console.log(num1)
+         
+         if (num2==0 && num1 == 0){
+            resultado = '‭Resultado indefinido‬ 😕'
+            console.log(resultado)
+         }else if(num1==0){
+            resultado = '‭Não é possível dividir por zero‬😕'
+         }else{
+            resultado = num2 / num1
+         }
+
          break;
 
       case '%':
