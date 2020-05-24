@@ -24,7 +24,7 @@ function lerNum(n){
       document.getElementById("tela1").innerHTML = "Tela sem espaço!"
       document.getElementById("tela2").innerHTML = "Clique no AC para resetar"
    }else{
-      if (maxdigitos >= 15){
+      if (maxdigitos >= 13){
          document.getElementById('tela1').style.fontSize = '30px'
       }
       
