@@ -18,14 +18,17 @@ function limpar(){
 }
 function lerNum(n){
    if (maxdigitos >= 25){
-      document.getElementById('tela1').style.fontSize = '38px'
+      document.getElementById('tela1').style.fontSize = '35px'
       limpar()
       maxdigitos = 25                   //necessario para poder parar o incremento de numeros.
       document.getElementById("tela1").innerHTML = "Tela sem espaço!"
       document.getElementById("tela2").innerHTML = "Clique no AC para resetar"
    }else{
       if (maxdigitos >= 13){
-         document.getElementById('tela1').style.fontSize = '28px'
+         document.getElementById('tela1').style.fontSize = '30px'
+      }else if(maxdigitos>= 22){
+         document.getElementById('tela1').style.fontSize = '24px'
+
       }
       
       num1 = (parseFloat(document.getElementById("tela1").innerHTML += n))    //Coloca na tela o numero clicado.
