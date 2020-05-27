@@ -92,8 +92,14 @@ function valorResultado(){
          if (num2==0 && num1 == 0){
             resultado = '‭Resultado indefinido‬ 😕'
             console.log(resultado)
+            setTimeout(function(){
+               limpar();
+             }, 1000)
          }else if(num1==0){
             resultado = '‭Não é possível dividir por zero‬😕'
+            setTimeout(function(){
+               limpar();
+             }, 1000)
          }else{
             resultado = num2 / num1
          }
