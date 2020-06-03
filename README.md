@@ -1,6 +1,7 @@
 # Calculadora desenvolvida em javascript.
 ###  https://vitorrrocha.github.io/calculadoraJS/
 <p align="center">
+  
 ![alt text](https://github.com/Vitorrrocha/calculadoraJS/blob/master/gifca.gif?raw=true)
 
   <a href="LICENSE" style="text-decoration: none">
