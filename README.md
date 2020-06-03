@@ -1,6 +1,7 @@
 # Calculadora desenvolvida em javascript.
 ###  https://vitorrrocha.github.io/calculadoraJS/
 <p align="center">
+![alt text](https://github.com/Vitorrrocha/calculadoraJS/blob/master/gifca.gif?raw=true)
 
   <a href="LICENSE" style="text-decoration: none">
     <img alt="License" src="https://img.shields.io/github/license/Vitorrrocha/calculadoraJS?color=34CB79" />
@@ -31,4 +32,3 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 ### Calculadora desenvolvida utilizando JavaScript, HTML5 e CSS3, sem uso de frameworks, tentei fazer da maneira mais pura e roots que consegui até o momento.
-![alt text](https://github.com/Vitorrrocha/calculadoraJS/blob/master/gifca.gif?raw=true)
