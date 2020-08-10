@@ -32,4 +32,4 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-### Calculadora desenvolvida utilizando JavaScript, HTML5 e CSS3, sem uso de frameworks, tentei fazer da maneira mais pura e roots que consegui até o momento.
+### Calculator developed using JavaScript, HTML5 and CSS3, without using frameworks, I tried to do it in the purest way that I could until now.
