@@ -1,5 +1,5 @@
 # Calculator developed using javascript.
-###  https://vitorrrocha.github.io/calculadoraJS/
+###  https://vitorrrocha.github.io/calculatorJS/
 <p align="center">
   
 ![alt text](https://github.com/Vitorrrocha/calculadoraJS/blob/master/gifca.gif?raw=true)
