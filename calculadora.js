@@ -2,7 +2,7 @@
  * Author: Vitor Augusto Batista Rocha
  * Year: 2020
  * Version: 1.0
- */
+*/
 var num1 , num2 = 0
 var maxdigitos = 0
 var resultado = 0
