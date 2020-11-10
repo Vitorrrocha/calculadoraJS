@@ -21,8 +21,8 @@ function lerNum(n){
       document.getElementById('tela1').style.fontSize = '35px'
       limpar()
       maxdigitos = 25                   //necessario para poder parar o incremento de numeros.
-      document.getElementById("tela1").innerHTML = "Sem espaço!"
-      document.getElementById("tela2").innerHTML = "Clique no AC para resetar"
+      document.getElementById("tela1").innerHTML = "No space!"
+      document.getElementById("tela2").innerHTML = "Press on the AC to reset"
    }else{
       if (maxdigitos >= 22){
          document.getElementById('tela1').style.fontSize = '24px'
@@ -90,13 +90,13 @@ function valorResultado(){
          console.log(num1)
          
          if (num2==0 && num1 == 0){
-            resultado = '‭Resultado indefinido‬ 😕'
+            resultado = '‭Result undefined‬ 😕'
             console.log(resultado)
             setTimeout(function(){
                limpar();
              }, 1000)
          }else if(num1==0){
-            resultado = '‭Não é possível dividir por zero‬😕'
+            resultado = '‭Unable to divide by zero😕'
             setTimeout(function(){
                limpar();
              }, 1000)
