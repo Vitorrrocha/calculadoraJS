@@ -1,4 +1,4 @@
-# Calculadora desenvolvida em javascript.
+# Calculator developed using javascript.
 ###  https://vitorrrocha.github.io/calculadoraJS/
 <p align="center">
   
